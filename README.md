@@ -75,7 +75,8 @@ A análise de dispersão entre produtos de **carne e vinho** indica uma **tendê
 
 Esse padrão sugere potencial para **campanhas cruzadas** e promoções integradas entre categorias complementares.  
 
-📉 ![Gráfico de Tendência Carne x Vinho](imagens/tendencia-carne-vinho.png)  
+📉  <img width="2180" height="1002" alt="image" src="https://github.com/user-attachments/assets/7acab5c0-b559-479a-8bfe-30870bb26e98" />
+
 
 ---
 
