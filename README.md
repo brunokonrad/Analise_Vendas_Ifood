@@ -55,7 +55,8 @@ Clientes entre **40 e 50 anos** foram os que mais contribuíram para o faturamen
 
 Esse grupo se destaca como o principal público-alvo, combinando alto volume de compras e recorrência de consumo.  
 
-📈 ![Gráfico de Faturamento por Faixa Etária](imagens/faturamento-faixa-etaria.png)  
+📈 <img width="2254" height="870" alt="image" src="https://github.com/user-attachments/assets/f96e7319-3b85-4b31-8119-10c97560665d" />
+
 
 ---
 
@@ -65,7 +66,8 @@ Clientes solteiros representaram **22% do faturamento total**, mas apresentaram 
 
 Entre os solteiros, a faixa **40–50 anos** também apresentou maior ticket médio, indicando uma oportunidade de direcionamento de marketing para esse perfil.  
 
-📊 ![Gráfico de Faturamento por Solteiros](imagens/faturamento-solteiros.png)  
+📊 <img width="1308" height="800" alt="image" src="https://github.com/user-attachments/assets/82986c31-2906-4afc-b7d9-9720cff57462" />
+ 
 
 ---
 
